@@ -1,0 +1,3 @@
+[submodule "hpios"]
+	path = hpios
+	url = git@github.com:AdrianAndroid/hpios.git
